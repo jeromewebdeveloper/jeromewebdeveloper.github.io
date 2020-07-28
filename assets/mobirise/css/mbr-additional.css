@@ -1167,7 +1167,7 @@ section.lazy-placeholder:after {
 }
 .cid-s60TfEKNSR {
   padding-top: 0px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #e7dec1;
 }
 .cid-s60TfEKNSR h4 {
@@ -1198,6 +1198,11 @@ section.lazy-placeholder:after {
   .cid-s60TfEKNSR .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-s616DIR8LA {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #e6dec1;
 }
 .cid-s3MbE1Qntd {
   padding-top: 60px;
